@@ -1,0 +1,15 @@
+{
+  "id" : "51393f8d-fec5-4668-bc37-c984b5900294",
+  "request" : {
+    "url" : "/producer/api/v1/products",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "[{\"id\":1,\"name\":\"Introduction to Java Programming\",\"description\":\"Sample Description\"},{\"id\":2,\"name\":\"Creative WP-300\",\"description\":\"Sample Description 2\"}]",
+    "headers" : {
+      "Content-Type" : "application/json;charset=UTF-8"
+    }
+  },
+  "uuid" : "51393f8d-fec5-4668-bc37-c984b5900294"
+}

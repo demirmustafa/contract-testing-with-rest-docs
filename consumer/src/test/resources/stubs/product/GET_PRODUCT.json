@@ -1,0 +1,20 @@
+{
+  "id" : "09c31589-bb0a-44fb-a5f5-9aa4883be109",
+  "request" : {
+    "url" : "/producer/api/v1/products/1",
+    "method" : "GET",
+    "headers" : {
+      "Accept" : {
+        "equalTo" : "application/json;charset=UTF-8"
+      }
+    }
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "{\"id\":1,\"name\":\"Introduction to Java Programming\",\"description\":\"Sample Description\"}",
+    "headers" : {
+      "Content-Type" : "application/json;charset=UTF-8"
+    }
+  },
+  "uuid" : "09c31589-bb0a-44fb-a5f5-9aa4883be109"
+}
